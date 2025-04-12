@@ -1,3 +1,3 @@
-# dummy-pdf
+# pdf
 
-A dummy PDF file generator.
+A mock PDF generator.
